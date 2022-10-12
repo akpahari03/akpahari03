@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akpahari03
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning reactjs
-- 💞️ Harshita
 - 📫 How to reach me akpahari2003@gmail.com
 
 <!---
